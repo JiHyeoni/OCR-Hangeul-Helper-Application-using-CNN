@@ -14,7 +14,8 @@ AI 엔진인 Google Dialogflow를 사용해 맛집 추천 서비스를 챗봇으
 
 ### 실행
 
-![image02](https://user-images.githubusercontent.com/78782639/156161292-df2e6e10-b0e6-4402-9c82-b567088c8283.png)
+![113813497-fb394100-97aa-11eb-8761-89aaa18c729d](https://user-images.githubusercontent.com/78782639/156161733-dcfe0bd0-d022-46a9-9817-9f53f479ea06.gif)
+
 
 </br>
 
