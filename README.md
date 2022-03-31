@@ -28,6 +28,6 @@
 - Server
 - Database
 
-**Ji-Min Jeong**
+**Jeong Ji Min**
 - OCR
 - Image Preprocessing
