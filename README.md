@@ -17,9 +17,11 @@
 
 ### 개발 결과
 - 이미지 캡처과정
+
 ![OCR 2](https://user-images.githubusercontent.com/78782639/160985513-18f110d4-d959-4d99-8b56-9cbb9ef6f1cc.png)
 
 - 출력 결과
+
 ![OCR 3](https://user-images.githubusercontent.com/78782639/160985558-b53d05c2-3976-4ea7-9c95-0a55db9bb350.png)
 
 ### 역할
